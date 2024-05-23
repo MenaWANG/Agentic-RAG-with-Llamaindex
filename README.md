@@ -22,4 +22,4 @@ This is my code and studynote for the course [Building Agentic RAG with LlamaInd
     * inspect and chat with the agent about its reasoning and responses 💭
     * control the agent in a granular fashion, which also enhances debuggability and steerability of the agent. 🧭
 
-![Agent](image\agentRunner-and-agentWorker.PNG)
+![Agent](image/agentRunner-and-agentWorker.PNG)
