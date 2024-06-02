@@ -4,7 +4,7 @@ This is my code and studynote for the course [Building Agentic RAG with LlamaInd
 
 # ✅ Lesson 1. Tools Calling using a Router Engine
 
-* In standard RAG, LLM are mainlysed used forr synthesis of information only.
+* In standard RAG, LLM are mainly used for synthesis of information only.
 * A router engine adds additional functionality which enables LLM to determine whether to implement a Q&A (vector search) or a summarization query engine/tool based on the question from the user
 * See `L1_Router_Engine` notebook & `get_router_query_engine()` function in `utils`
 
